@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c1e4626.css",
+    "main.js": "/static/js/main.2bd81343.js",
+    "static/media/imges1.png": "/static/media/imges1.df6509b527a29480311a.png",
+    "static/media/img2.png": "/static/media/img2.65c8b3302ff7e0ff40db.png",
+    "static/media/fixed2.png": "/static/media/fixed2.97428851b5f22ac91c04.png",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/fixed1.png": "/static/media/fixed1.c982836e7754461d478f.png",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/ourstore.png": "/static/media/ourstore.ca6900fe1a7de753cd96.png",
+    "static/media/modal_img.png": "/static/media/modal_img.d1d65ff73d4245312b53.png",
+    "static/media/fixed3.png": "/static/media/fixed3.3ad1ae61fd49cdf3dafa.png",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/koreanAir.png": "/static/media/koreanAir.888e50378a2906dad3c1.png",
+    "static/media/부동산 허위 광고.jpg": "/static/media/부동산 허위 광고.5bc5462841a3e8a76512.jpg",
+    "static/media/userImage.png": "/static/media/userImage.bcf0abe205832b7ad5b0.png",
+    "static/media/star.png": "/static/media/star.c7aa3bad3506d6b09afd.png",
+    "static/media/emptystar.svg": "/static/media/emptystar.08b0fb7a8e8980ab19ca7069af22e385.svg",
+    "static/media/star.svg": "/static/media/star.9902928ff811812ae6b8a97afa4f560d.svg",
+    "index.html": "/index.html",
+    "static/media/settings.svg": "/static/media/settings.b06737d8c8a93744b27e48f179957baa.svg",
+    "static/media/cart.svg": "/static/media/cart.d7bc033fa5861637ab68e72b771ff722.svg",
+    "static/media/add_photo.svg": "/static/media/add_photo.1c003e230f9c0ca2fba6b7ba60df0e46.svg",
+    "static/media/close.svg": "/static/media/close.08233535a9321b39bf5f4a13e34fede0.svg",
+    "main.4c1e4626.css.map": "/static/css/main.4c1e4626.css.map",
+    "main.2bd81343.js.map": "/static/js/main.2bd81343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1e4626.css",
+    "static/js/main.2bd81343.js"
+  ]
+}
